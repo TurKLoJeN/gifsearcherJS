@@ -4,4 +4,4 @@ I'm learning JavaScript and this is my practice project to further develop my sk
 
 ## ScreenShoot
 
-![Screenshot_21](https://github.com/TurKLoJeN/gifsearcherJS/assets/32311900/529f4da8-17e6-4c22-9ff6-74d2f78b4cf2)
+![Screenshot_21](https://github.com/TurKLoJeN/gifsearcherJS/assets/32311900/bc06b17a-abb9-4d06-a201-e41d3e1aa113)
