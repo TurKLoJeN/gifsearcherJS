@@ -1,4 +1,4 @@
-# JavaScript Weather APP
+# JavaScript Gif Searcher App
 
 I'm learning JavaScript and this is my practice project to further develop my skills. ( Ben JavaScript öğreniyorum ve buda benim deneme projem kendimi daha çok geliştireceğim ) 
 
